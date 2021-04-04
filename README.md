@@ -6,5 +6,5 @@ learn. If people are interested in what I do (even though limited) I want to tea
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=njl2dmn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts
-- NJL#1541 (I'm not accepting FRs but you can DM me tho)
-- njl.takode@gmail.com (If you wanna reach out for help *wink wonk*)
+- ![](https://img.shields.io/badge/Discord-NJL%231541-blue?style=flat-square&logo=discord) (I'm not accepting FRs but you can DM me tho)
+- ![](https://img.shields.io/badge/Email-njl.takode%40gmail.com-red?style=flat-square) (If you wanna reach out for help *wink wonk*)
