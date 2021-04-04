@@ -7,4 +7,4 @@ learn. If people are interested in what I do (even though limited) I want to tea
 
 ## Contacts
 - ![](https://img.shields.io/badge/Discord-NJL%231541-blue?style=flat-square&logo=discord) (I'm not accepting FRs but you can DM me tho)
-- ![](https://img.shields.io/badge/Email-njl.takode%40gmail.com-red?style=flat-square) (If you wanna reach out for help *wink wonk*)
+- ![](https://img.shields.io/badge/Email-njl.takode%40gmail.com-red?style=flat-square&logo=gmail) (If you wanna reach out for help *wink wonk*)
