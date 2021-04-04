@@ -1,12 +1,19 @@
 # 🐙 njl2dmn
 Hi! I'm NJL, A computer engineering student, aspiring to make my own game, and lastly, a Pythonista. I'm working on lots of personal projects when I'm free.
 I take on projects when I find something interesting (ML/AI, GameDev, WebDev, etc.). I'm still working on my portfolio and my skills. Also, I teach what I
-learn. If people are interested in what I do (even though limited) I want to teach them. <img align="center" src="https://img.shields.io/badge/STAN-LOONA-blue?style=flat-square">
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=njl2dmn&count_private=true&show_icons=true&line_height=27.5&theme=dark&bg_color=1,1d1d1d,1d1d1d,101010&hide_border=true"/>](https://github.com/njl2dmn)
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njl2dmn&show_icon=true&theme=dark&bg_color=1,101010,000000,000000&hide_border=true"/>](https://github.com/njl2dmn)
+learn. If people are interested in what I do (even though limited) I want to teach them.
+  
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=njl2dmn&count_private=true&show_icons=true&line_height=27.5&theme=dark&bg_color=1,1d1d1d,1d1d1d,101010&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njl2dmn&show_icon=true&theme=dark&bg_color=1,101010,000000,000000&hide_border=true"/>
+</p>
 
 
 ## Contacts
 - ![](https://img.shields.io/badge/Discord-NJL%231541-blue?style=flat-square&logo=discord) (I'm not accepting FRs but you can DM me tho)
 - ![](https://img.shields.io/badge/Email-njl.takode%40gmail.com-red?style=flat-square&logo=gmail) (If you wanna reach out for help *wink wonk*)
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/744023788248629308/828268278493347890/Mobius_Strip.gif">
+</p>
+
