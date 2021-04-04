@@ -11,7 +11,7 @@ learn. If people are interested in what I do (even though limited) I want to tea
 
 ## Contacts
 - [![Discord](https://img.shields.io/badge/Discord-NJL%231541-blue?style=flat-square&logo=discord)](https://discord.gg) (I'm not accepting FRs but you can DM me tho)
-- [![Twitter](https://img.shields.io/badge/Twitter-%40not__njl-blue?style=flat-square&logo=twitter)](https://twitter.com/not_njl) (Fairly new. needed to make a proper Twitter)
+- [![Twitter](https://img.shields.io/badge/Twitter-%40not__njl-blue?style=flat-square&logo=twitter)](https://twitter.com/not_njl) (Fairly new. Needed to make a proper Twitter)
 - ![](https://img.shields.io/badge/Email-njl.takode%40gmail.com-red?style=flat-square&logo=gmail) (If you wanna reach out for help *wink wonk*)
 
 <p align="center">
