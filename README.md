@@ -18,8 +18,8 @@ what I do (even though limited), I offer my knowledge.
 
 ## Current Projects in Workspace
 <p align="center">
-  <a href="https://github.com/notjl/numerical_methods">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notjl&repo=numerical_methods&hide_border=true&bg_color=90,1a1a1a,101010,101010,101010&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true&title_color=68cad2"></a><a href="https://github.com/notjl/pyrp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notjl&repo=pyrp&hide_border=true&bg_color=90,1a1a1a,101010,101010,101010&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true&title_color=68cad2"></a>
+  <a href="https://github.com/notjl/pyrp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=notjl&repo=pyrp&hide_border=true&bg_color=90,1a1a1a,101010,101010,101010&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true&title_color=68cad2"></a><a href="https://github.com/notjl/pyrphearts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notjl&repo=pyrphearts&hide_border=true&bg_color=90,1a1a1a,101010,101010,101010&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true&title_color=68cad2"></a><a href="https://github.com/notjl/numerical_methods"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notjl&repo=numerical_methods&hide_border=true&bg_color=90,1a1a1a,101010,101010,101010&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true&title_color=68cad2"></a>
 </p>
 <br>
 <br>
