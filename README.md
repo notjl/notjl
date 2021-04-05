@@ -24,6 +24,6 @@ what I do (even though limited), I offer my knowledge.
 <br>
 <br>
 <p align="center">
-  <a href="https://loonatheworldus.com/"><img src="https://cdn.discordapp.com/attachments/744023788248629308/828268278493347890/Mobius_Strip.gif"></a>
+  <a href="https://loonatheworldus.com/"><img src="https://cdn.discordapp.com/attachments/744023788248629308/828423554499608616/Mobius_Strip_Inverted.gif"></a>
 </p>
 
