@@ -6,9 +6,7 @@ what I do (even though limited), I offer my knowledge.
 <br>
 <br>
 <p align="center">
-<a href="https://github.com/notjl?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=notjl&count_private=true&show_icons=true&line_height=27.5&theme=dark&bg_color=90,1d1d1d,1d1d1d,101010,101010&hide_border=true&text_color=9c9c9c&icon_color=68cad2"/></a>
-<br>
-<a href="https://github.com/notjl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjl&show_icon=true&theme=dark&bg_color=90,1d1d1d,1d1d1d,101010,101010&hide_border=true&text_color=9c9c9c&icon_color=68cad2&layout=compact"/></a>
+<a href="https://github.com/notjl?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=notjl&count_private=true&show_icons=true&line_height=27.5&theme=dark&bg_color=90,1d1d1d,1d1d1d,101010,101010&hide_border=true&text_color=9c9c9c&icon_color=68cad2"/></a><a href="https://github.com/notjl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notjl&show_icon=true&theme=dark&bg_color=90,1d1d1d,1d1d1d,101010,101010&hide_border=true&text_color=9c9c9c&icon_color=68cad2&hide=Mako&layout=compact&card_width=400"/></a>
 </p>
 
 
