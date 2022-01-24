@@ -2,7 +2,8 @@
   <h2><img src="https://github.com/notjl/notjl/blob/master/wave.gif" width="30px"> yo, I'm tako<img src="https://github.com/notjl/notjl/blob/master/logo_scaled.gif" width="30px"></h1>
 </div>
 <!--# 🐙 Tako / njl2dmn / notjl-->
-
+<h3>
+  
 ```python
 #!/usr/bin/python
 
@@ -54,7 +55,7 @@ class ComputerEngineer:
 tako = ComputerEngineer()
 print(tako.is('currently procrastinating'))
 ```
-
+</h3>
 <details>
   <summary>📜 Github Stats</summary>
   <p align="center">
@@ -111,6 +112,7 @@ print(tako.is('currently procrastinating'))
     </a>
   </p>
 </details>
+
 
 <!-- IGNORE
 <img src="https://github.com/notjl/notjl/blob/master/logo_scaled.gif" align="right" width="60">
