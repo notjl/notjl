@@ -35,7 +35,7 @@ class ComputerEngineer:
             'twitter': 'notjl_______',
             'discord': 'njl#0142',
             'mail': 'not_njl@pm.me',
-            'twitch': 'is_njl',
+            # 'twitch': 'is_njl',
             'steam': 'NJLisinuse', # /id/<steamid>
             'spotify': 'ash'
             }
@@ -53,7 +53,7 @@ class ComputerEngineer:
         pass
         
 tako = ComputerEngineer()
-print(tako.is('currently procrastinating'))
+print(tako.is('currently learning basics of WebDev'))
 ```
 </h3>
 <details>
