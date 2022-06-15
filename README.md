@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><img src="https://github.com/notjl/notjl/blob/master/wave.gif" width="30px"> yo, I'm tako<img src="https://github.com/notjl/notjl/blob/master/logo_scaled.gif" width="30px"></h1>
+  <h2><img src="https://github.com/notjl/notjl/blob/master/wave.gif" width="30"> yo, I'm tako<img src="https://github.com/notjl/notjl/blob/master/logo_scaled.gif" width="30"></h1>
 </div>
 <!--# 🐙 Tako / njl2dmn / notjl-->
 <h3>
