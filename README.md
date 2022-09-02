@@ -53,7 +53,7 @@ class ComputerEngineer:
         pass
         
 tako = ComputerEngineer()
-print(tako.is('currently learning basics of WebDev'))
+print(tako.is('currently experiencing cramming in 4TH YEAR CpE. Due to unoptimized curriculum.'))
 ```
 </h3>
 <details>
