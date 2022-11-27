@@ -42,18 +42,18 @@ class ComputerEngineer:
       
         self.langs_n_tools = {
             'prefered': 'python',
-            'learned': ['c/c++', 'lua'],
-            'to_learn': ['html', 'css', 'js', 'rust', 'java']
+            'learned': ['c/c++ (30%)', 'lua (20%)'],
+            'to_learn': ['html', 'css', 'js', 'rust', 'nextjs', 'reactjs', 'golang']
             }
         
-        self.projects = None # Currently
+        self.projects = ["E-book Collector", "BioPIn"]
         self.goals = 'learn how to properly code and contribute'
         
     def is(self, status):
         pass
         
 tako = ComputerEngineer()
-print(tako.is('currently experiencing cramming in 4TH YEAR CpE. Due to unoptimized curriculum.'))
+print(tako.is('experiencing crunch mode by juggling through many projects set by the professors.'))
 ```
 </h3>
 <details>
