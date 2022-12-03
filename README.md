@@ -8,56 +8,63 @@
 #!/usr/bin/python
 
 class ComputerEngineer:
-
     def __init__(self):
-        self.aliases = {
-            'known_as': ['tako', 'njl'],
-            'dev_name': 'notjl'
-            }
+        self.aliases = {"known_as": ["tako", "njl"], "dev_name": "notjl"}
         self.operating_system = None
-        
-    def about_me(self, alias='known_as', pref=0):
+
+    def about_me(self, alias="known_as", pref=0):
         """
         about_me displays what <aliases> is about and his interests.
         """
-  
-        self.real_name = 'Angel G. P. C.'
-      
-        self.desc = f'{self.aliases[alias][pref]} is currently an engineering student.'
-      
+
+        self.real_name = "Angel G. P. C."
+
+        self.desc = f"""
+        {self.aliases[alias][pref]} is currently an engineering student attending TIP QC. Believes in FOSS.
+        """
+
         self.interests = [
-            'machine learning / artificial intelligence',
-            'game development',
-            'web development',
-            'learning computer languages and *languages',
-            'kpop',
-            'indie games'
-            ]
-          
+            "machine learning / artificial intelligence",
+            "game development",
+            "web development",
+            "learning computer languages and *languages",
+            "kpop",
+            "indie games",
+            "f/oss",
+        ]
+
         self.plugs = {
-            'twitter': 'notjl_______',
-            'discord': 'njl#0142',
-            'mail': 'not_njl@pm.me',
+            "twitter": "notjl_______",
+            "discord": "njl#0142",
+            "mail": "not_njl@pm.me",
             # 'twitch': 'is_njl',
-            'steam': 'NJLisinuse', # /id/<steamid>
-            'spotify': 'ash'
-            }
-      
+            "steam": "NJLisinuse",  # /id/<steam>
+            "spotify": "ash",
+        }
+
         self.langs_n_tools = {
-            'prefered': 'python',
-            'learned': ['c/c++ (30%)', 'lua (20%)', 'kotlin/android native (40%)', 'fastapi (60%)'],
-            'to_learn': ['html', 'css', 'js', 'rust', 'nextjs', 'reactjs', 'golang']
-            }
-        
+            "operating_system": self.operating_system,
+            "ide": ["VSCodium", "Vi/Vim/Neovim"],
+            "prefered_lang": "python",
+            "learned": [
+                "c/c++ (30%)",
+                "lua (20%)",
+                "kotlin/android native (40%)",
+                "fastapi (60%)",
+            ],
+            "to_learn": ["html", "css", "js", "rust", "nextjs", "reactjs", "golang"],
+        }
+
         self.projects = ["E-book Collector", "BioPIn"]
-        self.goals = 'learn how to properly code and contribute'
-        
-    def is(self, status):
-        pass
-        
+        self.goals = "learn how to properly code and contribute"
+
+    def currently_doing(self, status):
+        return status
+
+
 tako = ComputerEngineer()
-tako.operating_system('Transitioning fully to GNU/Linux')
-print(tako.is('experiencing crunch mode by juggling through many projects set by the professors.'))
+tako.operating_system("Transitioning fully to GNU/Linux")
+print(tako.currently_doing('experiencing crunch mode by juggling through many projects set by the professors.'))
 ```
 </h3>
 <details>
