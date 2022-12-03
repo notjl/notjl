@@ -14,11 +14,14 @@ class ComputerEngineer:
             'known_as': ['tako', 'njl'],
             'dev_name': 'notjl'
             }
+        self.operating_system = None
         
     def about_me(self, alias='known_as', pref=0):
         """
         about_me displays what <aliases> is about and his interests.
         """
+  
+        self.real_name = 'Angel G. P. C.'
       
         self.desc = f'{self.aliases[alias][pref]} is currently an engineering student.'
       
@@ -42,7 +45,7 @@ class ComputerEngineer:
       
         self.langs_n_tools = {
             'prefered': 'python',
-            'learned': ['c/c++ (30%)', 'lua (20%)'],
+            'learned': ['c/c++ (30%)', 'lua (20%)', 'kotlin/android native (40%)', 'fastapi (60%)'],
             'to_learn': ['html', 'css', 'js', 'rust', 'nextjs', 'reactjs', 'golang']
             }
         
@@ -53,6 +56,7 @@ class ComputerEngineer:
         pass
         
 tako = ComputerEngineer()
+tako.operating_system('Transitioning fully to GNU/Linux')
 print(tako.is('experiencing crunch mode by juggling through many projects set by the professors.'))
 ```
 </h3>
