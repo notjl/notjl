@@ -20,7 +20,7 @@ class ComputerEngineer:
         self.real_name = "Angel G. P. C."
 
         self.desc = f"""
-        {self.aliases[alias][pref]} is currently an engineering student attending TIP QC. Believes in FOSS.
+        {self.aliases[alias][pref]} is currently an engineering student attending TIP QC. Believes in F/OSS.
         """
 
         self.interests = [
@@ -56,15 +56,15 @@ class ComputerEngineer:
         }
 
         self.projects = ["E-book Collector", "BioPIn"]
-        self.goals = "learn how to properly code and contribute"
+        self.goals = "learn how to properly code, make more software (especially TUIs), and contribute to open source and advocate F/OSS"
 
     def currently_doing(self, status):
         return status
 
 
 tako = ComputerEngineer()
-tako.operating_system("Transitioning fully to GNU/Linux")
-print(tako.currently_doing('experiencing crunch mode by juggling through many projects set by the professors.'))
+tako.operating_system("EndeavourOS")
+print(tako.currently_doing('Learning Machine Learning'))
 ```
 </h3>
 <details>
